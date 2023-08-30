@@ -52,7 +52,7 @@ def f1():
  
  
 main_window=Tk()
-main_window.title("Todo application")
+main_window.title("weather application")
 main_window.geometry("700x700+100+100")
 f=("Calibri",20,"bold")
 
